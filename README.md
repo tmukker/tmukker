@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tushar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/tushar-mukker-a08950156)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-mukker-a08950156/)
 
 ## About Me 🔭 
 
