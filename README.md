@@ -20,11 +20,10 @@ A graduate student pursuing a Master’s degree from Concordia University, Montr
 - **Azure DevOps**
 - **Alteryx**
 - **Power BI**
-- **JIRA**
-- **Confluence**
+- **Redis Cloud**
 - **Fivetran**
 - **dbt labs**
-- **Figma**
 - **Databricks**
-- **Redis Cloud**
-
+- **Figma**
+- **JIRA**
+- **Confluence**
