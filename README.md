@@ -4,7 +4,9 @@
 
 ## About Me 🔭 
 
-I am currently pursuing a Master's degree at Concordia University in Montreal. I hold Matillion Associate and Databricks Lakehouse Fundamentals certification, demonstrating proficiency in developing, testing, and optimizing solutions tailored to meet business needs. In my role as a Digital Engineering Analyst at NTT DATA Company, I have gained valuable experience in delivering optimal solutions on cloud platform through the application of various technologies.
+Having a solid background in computer science and currently pursuing a Master's in Electrical and Computer Engineering, I bring specialized skills in designing and enhancing solutions across diverse domains. I am driven by a passion for delivering high-quality, scalable solutions that offer both immediate impact and lasting value. 
+
+Big fan of taking ownership and working with Business Teams & Stakeholders.
 
 ## Skills 🧰
 
