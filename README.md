@@ -13,8 +13,6 @@ Big fan of taking ownership and working with Business Teams & Stakeholders.
 ### Programming Languages
 - **Python**
 - **SQL**
-- **Python**
-- **SQL**
 - **Java**
 - **HTML**
 - **CSS**
