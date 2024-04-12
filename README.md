@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Tushar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-mukker-a08950156/)
-![](https://komarev.com/ghpvc/?tmukker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-mukker-a08950156/)![](https://komarev.com/ghpvc/?username=tmukker&style=flat-square)
 ## About Me 🔭 
 
 Having a solid background in computer science and currently pursuing a Master's in Electrical and Computer Engineering, I bring specialized skills in designing and enhancing solutions across diverse domains. I am driven by a passion for delivering high-quality, scalable solutions that offer both immediate impact and lasting value. 
