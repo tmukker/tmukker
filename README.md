@@ -1,29 +1,52 @@
-# 👋 Hello, I'm Tushar 🚀
+# 👋 **Hello, I'm Tushar Mukker** 🚀  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-mukker-a08950156/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://tmukker.github.io/portfolio/)
-<img src="https://komarev.com/ghpvc/?username=tmukker&color=blue" alt="visitors">
-## About Me 🔭 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-mukker-a08950156/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=google-chrome)](https://tmukker.github.io/portfolio/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tusharmukker/)  
+![Profile Views](https://komarev.com/ghpvc/?username=tmukker&style=flat-square&color=blue)
 
-With Master's in Computer Engineering from Concordia University and a strong foundation in computer science, I specialize in designing and optimizing solutions across various domains. My passion lies in delivering high-quality, scalable systems that create both immediate impact and long-term value.
+---
 
-Big fan of taking ownership and working with Business Teams & Stakeholders.
+## 🌟 **About Me**  
 
-📍 Matillion Associate Certification 
-📍 Databricks Lakehouse Fundamentals Certification
+With a **Master's in Computer Engineering** from **Concordia University**, I specialize in **designing and optimizing scalable solutions** across diverse domains. My focus is on building systems that deliver **immediate impact** and **long-term value**.  
 
-📸 Skills Overview :
+I thrive in **collaborative environments**, enjoy taking ownership, and excel at working closely with **business teams and stakeholders** to achieve shared goals.  
 
-• Programming: Python, SQL, HTML, CSS, JavaScript, Java
+---
 
-• Frameworks: gRPC, Vue.js, SpringBoot
+### 🎓 **Certifications**  
+- 📍 **Matillion Associate Certification**  
+- 📍 **Databricks Lakehouse Fundamentals Certification**  
 
-• Databases: MySQL, MongoDB, Redis Cloud, Oracle, PostgreSQL
+---
 
-• Developer Tools: Matillion, Informatica Power Center, Databricks, Apache (Airflow, Kafka, Spark), Alteryx, Fivetran, Power BI, Tableau, Docker, dbt, GitHub, Jira, Confluence
+### 🛠 **Skills Overview**  
 
-• Cloud: Snowflake, AWS (EMR, AI Rekognition, S3, Lambda, Glue, Athena, CloudWatch, CodeBuild, Redshift), Azure (DataFactory, Data Lake, Synapse), GCP
+#### **Programming Languages**  
+- Python, SQL, HTML, CSS, JavaScript, Java  
 
-• Generative AI: LLM Models (GPT 4, Gemini)
+#### **Frameworks**  
+- gRPC, Vue.js, SpringBoot  
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-yellow)](https://leetcode.com/u/tusharmukker/)
+#### **Databases**  
+- MySQL, MongoDB, Redis Cloud, Oracle, PostgreSQL  
+
+#### **Developer Tools**  
+- **Data Tools**: Matillion, Informatica Power Center, dbt, Alteryx, Fivetran  
+- **Data Pipelines**: Apache Airflow, Kafka, Spark  
+- **Visualization**: Power BI, Tableau  
+- **Development**: Docker, GitHub, Jira, Confluence  
+
+#### **Cloud Platforms**  
+- **Snowflake**, AWS (EMR, AI Rekognition, S3, Lambda, Glue, Athena, CloudWatch, CodeBuild, Redshift), Azure (DataFactory, Data Lake, Synapse), GCP  
+
+#### **Generative AI**  
+- LLM Models (GPT-4, Gemini)  
+
+---
+
+## 📈 **GitHub Stats**  
+
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmukker&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmukker&layout=compact&theme=radical)  
