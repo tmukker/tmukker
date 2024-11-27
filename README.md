@@ -13,6 +13,7 @@ Big fan of taking ownership and working with Business Teams & Stakeholders.
 📍 Databricks Lakehouse Fundamentals Certification
 
 📸 Skills Overview :
+
 • Programming: Python, SQL, HTML, CSS, JavaScript, Java
 
 • Frameworks: gRPC, Vue.js, SpringBoot
@@ -25,4 +26,4 @@ Big fan of taking ownership and working with Business Teams & Stakeholders.
 
 • Generative AI: LLM Models (GPT 4, Gemini)
 
-Also, check out my GitHub --> [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-yellow)](https://leetcode.com/u/tusharmukker/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-yellow)](https://leetcode.com/u/tusharmukker/)
