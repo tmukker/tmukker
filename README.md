@@ -43,4 +43,4 @@ I thrive in **collaborative environments**, enjoy taking ownership, and excel at
 #### **Generative AI**  
 - LLM Models (GPT-4, Gemini)
 
-I'm currently learning and working on Generative AI and Cloud Computing.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tushar-mukker-a08950156/) or send me an email at **tusharmukker7@gmail.com**. Let's create something amazing together! 💥
