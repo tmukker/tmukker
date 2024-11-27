@@ -1,8 +1,7 @@
 # 👋 **Hello, I'm Tushar Mukker** 🚀  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-mukker-a08950156/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=google-chrome)](https://tmukker.github.io/portfolio/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tusharmukker/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-mukker-a08950156/) [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=google-chrome)](https://tmukker.github.io/portfolio/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tusharmukker/) 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=tmukker&style=flat-square&color=blue)
 
 ---
@@ -39,14 +38,9 @@ I thrive in **collaborative environments**, enjoy taking ownership, and excel at
 - **Development**: Docker, GitHub, Jira, Confluence  
 
 #### **Cloud Platforms**  
-- **Snowflake**, AWS (EMR, AI Rekognition, S3, Lambda, Glue, Athena, CloudWatch, CodeBuild, Redshift), Azure (DataFactory, Data Lake, Synapse), GCP  
+- Snowflake, AWS (EMR, AI Rekognition, S3, Lambda, Glue, Athena, CloudWatch, CodeBuild, Redshift), Azure (DataFactory, Data Lake, Synapse), GCP  
 
 #### **Generative AI**  
-- LLM Models (GPT-4, Gemini)  
+- LLM Models (GPT-4, Gemini)
 
----
-
-## 📈 **GitHub Stats**  
-
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmukker&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmukker&layout=compact&theme=radical)  
+I'm currently learning and working on Generative AI and Cloud Computing.
