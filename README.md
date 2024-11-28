@@ -32,13 +32,12 @@ I thrive in **collaborative environments**, enjoy taking ownership, and excel at
 - MySQL, MongoDB, Redis Cloud, Oracle, PostgreSQL  
 
 #### **Developer Tools**  
-- **Data Tools**: Matillion, Informatica Power Center, dbt, Alteryx, Fivetran  
-- **Data Pipelines**: Apache Airflow, Kafka, Spark  
+- **Data Pipelines & Tools**: Matillion, Informatica Power Center, Apache (Airflow, Kafka, Spark), dbt, Alteryx, Fivetran  
 - **Visualization**: Power BI, Tableau  
 - **Development**: Docker, GitHub, Jira, Confluence  
 
 #### **Cloud Platforms**  
-- Snowflake, AWS (EMR, AI Rekognition, S3, Lambda, Glue, Athena, CloudWatch, CodeBuild, Redshift), Azure (DataFactory, Data Lake, Synapse), GCP  
+- Snowflake, AWS, Azure, GCP  
 
 #### **Generative AI**  
 - LLM Models (GPT-4, Gemini)
